@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Cousin and sexy prime pairs on the 6N skeleton: three omega-distortions set by pairing geometry (Part IX)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-03"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-cousin-sexy-distortion"
+keywords:
+  - cousin primes
+  - sexy primes
+  - twin primes
+  - prime constellations
+  - conditional density
+  - experimental mathematics
+references:
+  - type: software
+    title: "6N twin-prime conditional density (Part I)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20470367
+  - type: software
+    title: "6N twin-prime gap omega-dependence (Part II)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20477664
+  - type: software
+    title: "6N two-centre shield law (Part V)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20510700
+  - type: software
+    title: "6N bridge-constant arithmetic (Part VIII)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20519998
